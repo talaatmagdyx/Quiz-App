@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="name_student">your name</string>
+
+    <string name="Q1">Q1 : Is an empty .java file a valid source file?</string>
+    <string name="Q2">Q2 : What is the default value of double variable?</string>
+    <string name="Q3">Q3 : how to define variable called x and type int ?</string>
+    <string name="Q4">Q4 : what type of variable in java?</string>
+    <string name="Q5">Q5 : Can a top level class be private or protected?</string>
+
+
+
+
+
+</resources>
